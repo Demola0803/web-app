@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>9.0.8-SNAPSHOP</version>	
+	<version>9.0.8-SNAPSHOT</version>	
 	
 	<name>maven-web-application</name>
 
